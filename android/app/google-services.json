@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1081900505247",
+    "firebase_url": "https://raterestro-4ea2a.firebaseio.com",
+    "project_id": "raterestro-4ea2a",
+    "storage_bucket": "raterestro-4ea2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081900505247:android:6c3572531ed5c900502aaa",
+        "android_client_info": {
+          "package_name": "com.example.raterestro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1081900505247-k5r9qhdajtiicqlcr1h3enri4l7uv3v2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.raterestro",
+            "certificate_hash": "26b3b88c28811daf2329e3f0b34b30914c170c0b"
+          }
+        },
+        {
+          "client_id": "1081900505247-qp4nbudahepkq3d1sc9toohlhoqpv1tc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYOZ_dsCylCdGd1LagB6zTrfJfSPKlM1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1081900505247-qp4nbudahepkq3d1sc9toohlhoqpv1tc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1081900505247-iq82d0319apr6ehg1j87v3djcsvbb044.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.raterestro"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

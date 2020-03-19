@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1081900505247-iq82d0319apr6ehg1j87v3djcsvbb044.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1081900505247-iq82d0319apr6ehg1j87v3djcsvbb044</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1081900505247-k5r9qhdajtiicqlcr1h3enri4l7uv3v2.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA-QRNg7VKx0YqnSDyc2r0ro-GvUG996ic</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1081900505247</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.raterestro</string>
+	<key>PROJECT_ID</key>
+	<string>raterestro-4ea2a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>raterestro-4ea2a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1081900505247:ios:4cf95a5c637cf225502aaa</string>
+	<key>DATABASE_URL</key>
+	<string>https://raterestro-4ea2a.firebaseio.com</string>
+</dict>
+</plist>
