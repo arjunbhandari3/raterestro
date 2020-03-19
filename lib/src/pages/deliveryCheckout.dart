@@ -511,7 +511,7 @@ class _DeliveryCheckoutWidgetState extends State<DeliveryCheckoutWidget> {
                                             ),
                                         )
                                         : scaffoldKey.currentState.showSnackBar(SnackBar(
-                                            content: Text("Cart is Empty"),
+                                            content: Text("No orders made."),
                                             duration: Duration(seconds: 4),
                                         ));
                                     }
